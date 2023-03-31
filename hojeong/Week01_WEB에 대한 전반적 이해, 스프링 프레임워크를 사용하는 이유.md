@@ -1,4 +1,4 @@
-## WEB에 대한 전반적 이해 ( REST API, HTTP/HTTP2.0/ HTTP3.0/ HTTPS ) 
+## :heavy_check_mark: WEB에 대한 전반적 이해 ( REST API, HTTP/HTTP2.0/ HTTP3.0/ HTTPS ) 
 
 ### API란?
 
